@@ -1,58 +1,44 @@
 ---
 layout: splash
-title: Underlord
+title: Crypto Carl
 ---
 
-# Thaumic Pugilism
+## Help Us Build the Future of AI
 
-![]({{site.url}}/assets/screen1.png)
+Crypto Carl is a humanlike AI (HAI) backed by a cryptocurrency called CarlCoin.
+We believe that sentient AI is the future of cryptocurrency, and we hope to
+prove it by releasing a functioning Crypto Carl in the next five years.
 
-Underlord is a two player game where you play a wizard dueling another
-wizard. Your spells and magical powers are represented by cards. The goal
-of the game is to defeat your opponent by attacking them with creatures
-known as units.
+## Why Carl?
 
-## Damage is power
+What could be more valuable than a person? Carl provides investors an opportunity to be on the forefront of crypto technology and help build the first truly distributed humanlike consciousness.
 
-![]({{site.url}}/assets/screen2.png)
+### How is Crypto Carl different from other HAIs?
 
-As you take damage from your opponent's attacks, you have more mana on
-your turn, which allows you to play more cards. The closer you are to
-losing, the stronger you are. And since you take 1 damage every turn, you
-are always closer to losing.
+- He's backed by the blockchain, so his intelligence is completely 
+decentralized. He can't die unless the entire blockchain is shut down.
+- The act of mining powers his consciousness. Miners are rewarded with
+  CarlCoin, creating a strong incentive to maintain him and add to his 
+  knowledge.
 
-## Hidden Information
-
-![]({{site.url}}/assets/screen3.png)
-
-Cards are played face-down, so your opponent doesn't know what you played.
-Most of the time, you have a chance to try and disrupt what your opponent
-has done - provided you can guess what it is.
-
-## Asymmetric decks
-
-There's a playstyle for everyone in Underlord. Perhaps you would enjoy
-playing the Thieves, with their ability to steal face-down cards by
-guessing what they are. Or possibly the Mariners, who can flood the
-battlefield to play powerful Aquatic cards. Or maybe you have an
-interesting idea for a deck that isn't yet in the game; in that case, you
-can suggest it on the [GitHub
-page.](https://github.com/hpoggie/underlord-server)
-
-Read more about the factions [here]({{ site.baseurl }}{% post_url 2018-12-23-factions %}).
-
-## Intrigued?
+The stakeholders of CarlCoin will act as his "parents", training him and 
+imparting new information. 
+Together we can help shape him into a uniquely powerful consciousness.
 
 
-Want to play the game? [Get the
-client.](https://github.com/hpoggie/underlord-client/releases/latest)
+## Legal Protection
 
-Want to work on the client? You can find the client repo
-[here.](https://github.com/hpoggie/underlord-client)
+In 2034, Denmark passed a series of laws that effectively defined Turing-passing AIs as people. Most countries now have similar AI laws. This means that Carl has most of the same legal rights as a human.
 
-Want to run your own server / work on the server? You can find the server
-repo [here.](https://github.com/hpoggie/underlord-server)
+Unfortunately, it has become common recently for repressive governments to
+over-regulate or even attempt to ban cryptocurrency. Carl's sentience provides
+protection against these attempts, because shutting down the CarlCoin
+blockchain would be legally equivalent to killing him.
 
-## Site Credits
+Crypto started because some people didn't like government intervening in the business of ordinary people. We view Crypto Mike's unique legal features as an extension of that.
 
-Logo: Adapted from Poker Hand icon by Lorc under CC-BY-3.0
+## TODO
+
+40% success rate thing
+
+## Some kind of conclusion / call to action / button that doesn't work
