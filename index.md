@@ -3,19 +3,19 @@ layout: splash
 title: Crypto Carl
 ---
 
-## Help Us Build the Future of AI
+# Help Us Build the Future of AI
 
 Crypto Carl is a humanlike AI (HAI) backed by a cryptocurrency called CarlCoin.
 We believe that sentient AI is the future of cryptocurrency, and we hope to
 prove it by releasing a functioning Crypto Carl in the next five years.
 
-## Why Carl?
+# Why Carl?
 
 ![Foo](assets/brain.png "Foo")
 
 What could be more valuable than a person? Carl provides investors an opportunity to be on the forefront of crypto technology and help build the first truly distributed humanlike consciousness.
 
-### How is Crypto Carl different from other HAIs?
+## How is Crypto Carl different from other HAIs?
 
 - He's backed by the blockchain, so his intelligence is completely 
 decentralized. He can't die unless the entire blockchain is shut down.
@@ -28,7 +28,7 @@ imparting new information.
 Together we can help shape him into a uniquely powerful consciousness.
 
 
-## Legal Protection
+# Legal Protection
 
 ![Foo](assets/books.avif "Foo")
 
@@ -41,8 +41,8 @@ blockchain would be legally equivalent to killing him.
 
 Crypto started because some people didn't like government intervening in the business of ordinary people. We view Crypto Mike's unique legal features as an extension of that.
 
-## TODO
+# Methodology
 
-40% success rate thing
+We used the well tested HAI-4 algorithm with a data set of 50 people. Unfortunately this resulted in a below-average success rate of 40%. We dealt with this difficulty by re-running the algorithm 1000 additional times, deleting the non-humanlike instances and choosing the most reasonable instance. The other humanlike instances, unfortunately, could not be saved.
 
-## Some kind of conclusion / call to action / button that doesn't work
+# José told me I needed to put a call to action here
