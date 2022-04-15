@@ -11,6 +11,8 @@ prove it by releasing a functioning Crypto Carl in the next five years.
 
 ## Why Carl?
 
+![Foo](assets/brain.png "Foo")
+
 What could be more valuable than a person? Carl provides investors an opportunity to be on the forefront of crypto technology and help build the first truly distributed humanlike consciousness.
 
 ### How is Crypto Carl different from other HAIs?
@@ -27,6 +29,8 @@ Together we can help shape him into a uniquely powerful consciousness.
 
 
 ## Legal Protection
+
+![Foo](assets/books.avif "Foo")
 
 In 2034, Denmark passed a series of laws that effectively defined Turing-passing AIs as people. Most countries now have similar AI laws. This means that Carl has most of the same legal rights as a human.
 
